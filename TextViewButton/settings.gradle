@@ -1,0 +1,2 @@
+rootProject.name = "TextViewButtonEditTextImageView"
+include ':app'
